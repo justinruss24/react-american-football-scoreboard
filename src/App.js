@@ -8,6 +8,7 @@ function App() {
 
   const [home, setHome] = useState(0);
   const [away, setAway] = useState(0);
+  
 
   return (
     <div className="container">
